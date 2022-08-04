@@ -11,7 +11,8 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   tf2
   tf2_ros
-  tf2_geometry_msgs)
+  tf2_geometry_msgs
+  ar_track_alvar)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
